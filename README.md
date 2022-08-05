@@ -1,6 +1,5 @@
 # Task-1-2-ROS
 
-# task 1,2_AI_smart-methods
 * task1:install ROS Neotic on Ubuntu 20.04 
 * task2: Ros install algorithm on Jetson nano
 
